@@ -1,0 +1,44 @@
+[
+  {
+    "legajo": "12345",
+    "nombre": "Pedro",
+    "apellido": "Amor",
+    "anio": 2019
+  },
+  {
+    "legajo": "13569",
+    "nombre": "Serena",
+    "apellido": "Martinez",
+    "anio": 2020
+  },
+  {
+    "legajo": "21579",
+    "nombre": "Valeria",
+    "apellido": "Quintero",
+    "anio": 2020
+  },
+  {
+    "legajo": "35946",
+    "nombre": "Gudalupe",
+    "apellido": "Fuschino",
+    "anio": 2021
+  },
+  {
+    "legajo": "39785",
+    "nombre": "Abril",
+    "apellido": "Fernandez",
+    "anio": 2021
+  },
+  {
+    "legajo": "41418",
+    "nombre": "Luciano",
+    "apellido": "Torres",
+    "anio": 2022
+  },
+  {
+    "legajo": "43876",
+    "nombre": "Santina",
+    "apellido": "Saenz",
+    "anio": 2023
+  }
+]
